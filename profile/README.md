@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- Banner Image -->
+![(https://i.imgur.com/nDA6TE9.png)](https://i.imgur.com/veCrcTo.png)
+## Hi there fellow gamers! 👋
 
 <!--
 
