@@ -1,14 +1,13 @@
 <!-- Banner Image -->
 ![Banner](https://i.imgur.com/veCrcTo.png)
-## Hi there fellow gamers! 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+<h2>Hi there fellow gamers! 👋</h2>
+</div>
+<div align="center">
+<h2>Check out our website to see what we're working on!</h2>
+</div>
+<div align="center">
+    <a href="https://agletogames.com">
+        <img src="https://media.giphy.com/media/qe3kuvokWJ9tLXhrgR/giphy.gif" alt="Visit Our Website" style="border-radius: 5px;">
+    </a>
+</div>
